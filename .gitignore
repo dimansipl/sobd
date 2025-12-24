@@ -1,0 +1,8 @@
+notebooks/*.csv
+notebooks/*.zip
+
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
